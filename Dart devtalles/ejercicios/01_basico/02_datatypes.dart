@@ -48,11 +48,15 @@ bool estaInactivo = !estaActivo;
 bool? estaNulo;
 
 
-print(estaActivo);
-print(estaInactivo);
-print(estaNulo);
+// print(estaActivo);
+// print(estaInactivo);
+// print(estaNulo);
 
+// === List
 
+var autores = ['Alejandro Sanz','julio Iglesias'];
+
+print(autores);
 
 }
 
