@@ -1,0 +1,31 @@
+{
+  "editor.codeLensFontFamily": "default",
+  "editor.inlayHints.fontFamily": "default",
+  "terminal.integrated.fontFamily": "monospace",
+  "notebook.output.fontFamily": "default",
+  "scm.repositories.visible": 14,
+  "editor.codeLensFontSize": 14,
+  "editor.lineHeight": 0,
+  "editor.suggestFontSize": 14,
+  "debug.console.lineHeight": 14,
+  "html.format.wrapAttributesIndentSize": 14,
+  "markdown.preview.lineHeight": 14,
+  "notebook.markup.fontSize": 14,
+  "notebook.output.fontSize": 14,
+  "notebook.output.lineHeight": 14,
+  "terminal.integrated.lineHeight": 1,
+  "editor.inlayHints.fontSize": 14,
+  "screencastMode.fontSize": 56,
+  "interactiveSession.editor.lineHeight": 14,
+  "debug.console.fontSize": 14,
+  "terminal.integrated.cursorWidth": 14,
+  "terminal.integrated.localEchoLatencyThreshold": 0,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.unicodeVersion": "11",
+  "cSpell.words": [
+    "interructor"
+  ],
+  "workbench.preferredDarkColorTheme": "Abyss",
+  "editor.letterSpacing": 1,
+  "editor.padding.bottom": 0
+}
