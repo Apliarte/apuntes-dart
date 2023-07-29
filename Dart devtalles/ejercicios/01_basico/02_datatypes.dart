@@ -54,9 +54,17 @@ bool? estaNulo;
 
 // === List
 
-var autores = ['Alejandro Sanz','julio Iglesias'];
+var villanos = ['Lex','Red Skull', 'Doom'];
 
-print(autores);
+print(villanos);
+
+// ==== Set
+var villanos2 = {
+
+
+  
+};
+
 
 }
 
