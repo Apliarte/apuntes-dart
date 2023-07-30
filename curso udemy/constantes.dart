@@ -3,6 +3,7 @@ const nombre = "puesyo";
 final nombres = new DateTime.now();
 
 print(nombre);
+print(nombres);
 
 //operadores numericos en dart no hace falta declarar que tipo de dato es, el mismo reconoce si es int o double
 
