@@ -1,7 +1,7 @@
+// ignore_for_file: unused_local_variable
 
-main(){
+main() {
 // para comentar multiples lineas se señalan estas y se pulsa crt+k+c y para descomentar pulsamos crt+k+u
-
 
 /*también se pueden
 comentar asi
@@ -10,43 +10,42 @@ lineas
  */
 
   // números
-  int a=10;
-  double b= 5.5;
-  int? _a= 30;
-  double $b=40;
-  int? c;
+  int a = 10;
+  double b = 5.5;
+  int? _a = 30;
+  double $b = 40;
+  double lk_jg_Ddsg_Dsfg_dsfg_r$ = 4.5;
+  int c = 0;
 
-  double resultado =_a+$b;
+  double resultado = _a + $b - lk_jg_Ddsg_Dsfg_dsfg_r$ + b + a - c;
   // print(a);
   // print(b);
-  // print(resultado);
+  print(resultado);
   // print(c);
 
   // String === >
 
-  
-String nombre= 'Javier';
-String apellido= 'Mateo';
-String restaurantePreferido = "Mc'Donald";
-String nombCompleto= nombre + apellido;
-String intro= '''Apliarte
-biennvenido seas titi tite tita 
+  /// The line `String nombre = 'Javier';` is declaring a variable named `nombre` of type `String` and
+  /// assigning it the value `'Javier'`. This variable is used to store a person's first name.
+  String nombre = 'Javier';
+  String apellido = 'Mateo';
+  String restaurantePreferido = "Mc'Donald";
+  String nombCompleto = nombre + apellido;
+  String intro = '''Apliarte
+biennvenido seas titi tite tita  
 teta toto o tito''';
-
-
+// print(nombre);
 // print(nombre);
 // print(apellido);
 // print(nombCompleto);
 // print(restaurantePreferido);
 // print(intro);
 
-
 // ==== Booleanos
 
-bool estaActivo =true;
-bool estaInactivo = !estaActivo;
-bool? estaNulo;
-
+  bool estaActivo = true;
+  bool estaInactivo = !estaActivo;
+  bool? estaNulo;
 
 // print(estaActivo);
 // print(estaInactivo);
@@ -54,18 +53,36 @@ bool? estaNulo;
 
 // === List
 
-var villanos = ['Lex','Red Skull', 'Doom'];
-
-print(villanos);
+  List<String> restaurantesPreferidos = [
+    "Mc'Donald", // posicion 0
+    'Burguer King ', // posicion 1
+    'Telepizza' // posicion 2
+  ];
+  // print(restaurantesPreferidos);
+  restaurantesPreferidos.add('Foster Hollywood');
+  restaurantesPreferidos.add('Foster Hollywood');
+  restaurantesPreferidos.add('Foster Hollywood');
+  // print(restaurantesPreferidos);
 
 // ==== Set
-var villanos2 = {
 
+  Set<String> restaurantesPreferidosSet = {
+    // no se puede acceder por posicion
+    "Mc'Donald", // posicion 0
+    'Burguer King ', // posicion 1
+    'Telepizza' // posicion 2
+  };
+  // print(restaurantesPreferidosSet);
+  restaurantesPreferidosSet.add('Foster Hollywood');
+  restaurantesPreferidosSet.add('Foster Hollywood');
+  restaurantesPreferidosSet.add('Foster Hollywood');
+  // print(restaurantesPreferidosSet); // no se repiten los valores
 
-  
-};
+// ==== Hacer Set una Lista, para quitar lo repetido
 
-
+  var restaurantesPreferidosSinRepetir = restaurantesPreferidos.toSet();
+  // print('Esto es la lista de antes---> $restaurantesPreferidos');
+  // print('Esto es un Set---> $restaurantesPreferidosSinRepetir');
+  //print('restaurantesPreferidos es de tipo ${restaurantesPreferidos.runtimeType}');
+  //print('restaurantesPreferidosSinRepetir es de tipo ${restaurantesPreferidosSinRepetir.runtimeType}');
 }
-
-
