@@ -1,16 +1,14 @@
 /* 
-2- Crea un set de nombres de personas y 
-agrega algunos nombres utilizando el método add().
- Luego, intenta agregar un nombre que ya esté en 
- el set y verifica si se agregó o no.
+3- Crea dos sets de números enteros
+ y encuentra su unión utilizando el método union().
+  Luego, imprime el resultado.
+
 
 */
 void main() {
-  Set<String> miSet = {};
-  miSet.add('Juan');
-  miSet.add('María');
-  miSet.add('Pedro');
-  miSet.add('Pedro');
+  Set<int> miSet = {1, 2, 3, 4};
+  Set<int> miSet1 = {3, 4, 5, 6, 7, 8, 9};
+  Set<int> resultado = miSet.union(miSet1);
 
-  print(miSet);
+  print(resultado);
 }

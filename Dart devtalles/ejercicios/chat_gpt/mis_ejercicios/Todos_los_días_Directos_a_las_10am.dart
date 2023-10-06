@@ -1,22 +1,24 @@
-/* 
-Aquí tienes algunos ejercicios que puedes realizar utilizando métodos de sets y mapas en Dart:
+/* Ejercicios que he hecho para practicar logica que podrian preguntar en una prueba tecnica junior.
 
-Ejercicios con métodos de sets:
+Calcular el promedio: 
+Escribe una función que tome una lista de números y calcule su promedio.
 
-1- Crea dos sets de números enteros y encuentra su intersección utilizando el método intersection(). Luego, imprime el resultado.
+Encontrar el número más grande: Escribe una función que encuentre el número más grande en una lista de números.
 
-2- Crea un set de nombres de personas y agrega algunos nombres utilizando el método add(). Luego, intenta agregar un nombre que ya esté en el set y verifica si se agregó o no.
+Contar las vocales: Escribe una función que cuente cuántas vocales (a, e, i, o, u) hay en una cadena de texto.
 
-3- Crea dos sets de números enteros y encuentra su unión utilizando el método union(). Luego, imprime el resultado.
+Factorial de un número: Escribe una función que calcule el factorial de un número dado. El factorial de un número es el producto de todos los enteros positivos desde 1 hasta ese número.
 
-Ejercicios con métodos de mapas:
+Verificar palíndromos: Escribe una función que verifique si una palabra o frase es un palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda, sin tener en cuenta los espacios ni mayúsculas/minúsculas).
 
-1- Crea un mapa que represente a personas y sus edades. Luego, utiliza el método putIfAbsent() para agregar una nueva persona al mapa solo si su nombre no está presente.
+Encontrar números primos: Escribe una función que determine si un número dado es primo o no. Un número primo solo es divisible por 1 y por sí mismo.
 
-2-Crea un mapa que represente a personas y sus edades. Luego, utiliza el método remove() para eliminar a una persona del mapa y verifica si se eliminó correctamente.
+Contar palabras en una oración: Escribe una función que cuente cuántas palabras hay en una oración dada. Puedes considerar que las palabras están separadas por espacios.
 
-3- Crea un mapa que represente a personas y sus edades. Luego, utiliza el método forEach() para imprimir el nombre y la edad de cada persona en el mapa.
-    
-    Recuerda que estos ejercicios no incluyen el código de solución, pero puedes intentar resolverlos por tu cuenta y verificar si tus soluciones funcionan correctamente en un entorno de desarrollo de Dart.
- */
+Ordenar una lista: Escribe una función que ordene una lista de números en orden ascendente o descendente. Puedes usar un algoritmo de ordenamiento como el de burbuja o el de selección.
+
+Reverso de una cadena: Escribe una función que invierta una cadena de texto. Por ejemplo, si tienes "hola", la función debería devolver "aloh".
+
+Suma de los primeros N números naturales: Escribe una función que calcule la suma de los primeros N números naturales. 
+*/
 void main() {}
