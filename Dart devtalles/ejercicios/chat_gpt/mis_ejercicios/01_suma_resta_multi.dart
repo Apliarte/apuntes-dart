@@ -25,8 +25,8 @@ int restaEjer(a, b) {
   return a - b;
 }
 
-int sumaEjer(a, b) {
-  return a + b;
+void sumaEjer(a, b) {
+  print(a + b);
 }
 
 int multiEjer(a, b) {
@@ -37,14 +37,13 @@ double diviEjer(a, b) {
   return a / b;
 }
 
-int suma = sumaEjer(num1, num1);
 int resta = restaEjer(num1, num2);
 int multi = multiEjer(num1, num2);
 double divi = diviEjer(num1, num2);
 
 // Imprime los resultados de las operaciones en la consola.
 main() {
-  print(suma);
+  sumaEjer(num1, num2);
   print(resta);
   print(multi);
   print(divi);

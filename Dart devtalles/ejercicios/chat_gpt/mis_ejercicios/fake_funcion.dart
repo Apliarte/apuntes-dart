@@ -33,6 +33,6 @@ void fakeFunction(n) {
 }
 
 main() {
-  aplifunction(0);
+  aplifunction(4);
   fakeFunction(0);
 }

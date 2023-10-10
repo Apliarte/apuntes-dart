@@ -1,24 +1,31 @@
-/* Ejercicios que he hecho para practicar logica que podrian preguntar en una prueba tecnica junior.
+/* Ejercicio 1:
+Dadas dos listas, lista1 y lista2, 
+crea una nueva lista que contenga 
+todos los elementos de ambas listas 
+utilizando el operador de propagación.
 
-Calcular el promedio: 
-Escribe una función que tome una lista de números y calcule su promedio.
+dart
+Copy code
+var lista1 = [1, 2, 3];
+var lista2 = [4, 5, 6];
+// Crea una nueva lista que combine los elementos de lista1 y lista2
+Ejercicio 2:
+Dada una lista numeros, 
+crea una copia de esta lista y agrega un nuevo número,
+ utilizando el operador de propagación.
 
-Encontrar el número más grande: Escribe una función que encuentre el número más grande en una lista de números.
+dart
+Copy code
+var numeros = [1, 2, 3];
+// Crea una copia de la lista numeros y agrega un nuevo número a la copia
+Ejercicio 3:
+Dada una lista original, crea una nueva 
+lista que contenga todos los elementos de 
+original seguidos por los mismos elementos 
+pero en orden inverso, utilizando el operador de propagación.
 
-Contar las vocales: Escribe una función que cuente cuántas vocales (a, e, i, o, u) hay en una cadena de texto.
-
-Factorial de un número: Escribe una función que calcule el factorial de un número dado. El factorial de un número es el producto de todos los enteros positivos desde 1 hasta ese número.
-
-Verificar palíndromos: Escribe una función que verifique si una palabra o frase es un palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda, sin tener en cuenta los espacios ni mayúsculas/minúsculas).
-
-Encontrar números primos: Escribe una función que determine si un número dado es primo o no. Un número primo solo es divisible por 1 y por sí mismo.
-
-Contar palabras en una oración: Escribe una función que cuente cuántas palabras hay en una oración dada. Puedes considerar que las palabras están separadas por espacios.
-
-Ordenar una lista: Escribe una función que ordene una lista de números en orden ascendente o descendente. Puedes usar un algoritmo de ordenamiento como el de burbuja o el de selección.
-
-Reverso de una cadena: Escribe una función que invierta una cadena de texto. Por ejemplo, si tienes "hola", la función debería devolver "aloh".
-
-Suma de los primeros N números naturales: Escribe una función que calcule la suma de los primeros N números naturales. 
-*/
-void main() {}
+dart
+Copy code
+var original = [1, 2, 3];
+// Crea una nueva lista que contenga los elementos de original seguidos por su inverso
+Por favor, intenta resolver cada uno de estos ejercicios uno por uno. Cuando estés listo para verificar tus respuestas o necesites ayuda, ¡no dudes en preguntar! */
