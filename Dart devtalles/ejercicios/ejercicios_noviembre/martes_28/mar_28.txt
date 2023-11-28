@@ -1,0 +1,24 @@
+1. Variables y Operaciones Básicas
+Ejercicio 1: Declara dos variables para almacenar la cantidad de lápices y cuadernos que tienes. Calcula el total de artículos de papelería y muestra el resultado.
+ 
+Ejercicio 2: Crea un programa que almacene la longitud de los lados de un rectángulo y luego calcule e imprima el área y el perímetro del rectángulo.
+ 
+2. Casting de Variables
+Ejercicio 3: Tienes una variable de tipo double que representa la cantidad de dinero que tienes. Imprime cuántas modedas y billetes necesitarías.
+ 
+Ejercicio 4: Dada una variable que contiene la edad de una persona como número entero, conviértela en una cadena y añade la palabra "años" al final. Por ejemplo, si la edad es 25, conviértela en "25 años".
+ 
+3. Bucles e Iteraciones
+Ejercicio 5: Utiliza un bucle para sumar los números del 1 al 10 y muestra el total.
+ 
+Ejercicio 6: Escribe un programa que use un bucle para imprimir los primeros 10 números pares.
+ 
+4. Estructuras de Control de Flujo
+Ejercicio 7: Crea un programa que determine si un número es par o impar. Usa if para verificar la condición e imprime un mensaje adecuado.
+ 
+Ejercicio 8: Escribe un programa que lea un número y use la declaración switch para imprimir "bajo" si el número es menor que 10, "medio" si está entre 10 y 20, y "alto" si es mayor que 20.
+ 
+5. Funciones
+Ejercicio 9: Desarrolla una función que reciba dos números y devuelva el mayor.
+ 
+Ejercicio 10: Crea una función que tome un número como argumento y devuelva true si el número es primo y false en caso contrario.

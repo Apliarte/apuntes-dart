@@ -14,13 +14,14 @@ lineas
   double b = 5.5;
   int? _a = 30;
   double $b = 40;
-  double lk_jg_Ddsg_Dsfg_dsfg_r$ = 4.5;
+  double periquito_el_de_los_aplotes = 4.5;
   int c = 0;
+  String nombreStreamerMasGuapoDelMundo = 'Javier';
 
-  double resultado = _a + $b - lk_jg_Ddsg_Dsfg_dsfg_r$ + b + a - c;
+  double resultado = _a + $b - periquito_el_de_los_aplotes + b + a - c;
   // print(a);
   // print(b);
-  print(resultado);
+  // print(periquito_el_de_los_aplotes);
   // print(c);
 
   // String === >
@@ -30,26 +31,26 @@ lineas
   String nombre = 'Javier';
   String apellido = 'Mateo';
   String restaurantePreferido = "Mc'Donald";
-  String nombCompleto = nombre + apellido;
+  String nombreCompleto = nombre + apellido;
   String intro = '''Apliarte
 biennvenido seas titi tite tita  
 teta toto o tito''';
-// print(nombre);
-// print(nombre);
-// print(apellido);
-// print(nombCompleto);
-// print(restaurantePreferido);
-// print(intro);
+  // print('nombre es de tipo ${nombre.runtimeType}');
+  // print(nombre);
+  // print(apellido);
+  // print(nombreCompleto);
+  // print(restaurantePreferido);
+  // print(intro);
 
 // ==== Booleanos
 
-  bool estaActivo = true;
-  bool estaInactivo = !estaActivo;
+  bool estaInactivo = false;
+  bool estaActivo = !estaInactivo;
   bool? estaNulo;
 
-// print(estaActivo);
-// print(estaInactivo);
-// print(estaNulo);
+  // print(estaActivo);
+  // print(estaInactivo);
+  // print(estaNulo);
 
 // === List
 
@@ -72,7 +73,7 @@ teta toto o tito''';
     'Burguer King ', // posicion 1
     'Telepizza' // posicion 2
   };
-  // print(restaurantesPreferidosSet);
+  print(restaurantesPreferidosSet);
   restaurantesPreferidosSet.add('Foster Hollywood');
   restaurantesPreferidosSet.add('Foster Hollywood');
   restaurantesPreferidosSet.add('Foster Hollywood');
@@ -81,8 +82,10 @@ teta toto o tito''';
 // ==== Hacer Set una Lista, para quitar lo repetido
 
   var restaurantesPreferidosSinRepetir = restaurantesPreferidos.toSet();
-  // print('Esto es la lista de antes---> $restaurantesPreferidos');
-  // print('Esto es un Set---> $restaurantesPreferidosSinRepetir');
-  //print('restaurantesPreferidos es de tipo ${restaurantesPreferidos.runtimeType}');
-  //print('restaurantesPreferidosSinRepetir es de tipo ${restaurantesPreferidosSinRepetir.runtimeType}');
+  print('Esto es la lista de antes---> $restaurantesPreferidos');
+  print('Esto es un Set---> $restaurantesPreferidosSinRepetir');
+  print(
+      'restaurantesPreferidos es de tipo ${restaurantesPreferidos.runtimeType}');
+  print(
+      'restaurantesPreferidosSinRepetir es de tipo ${restaurantesPreferidosSinRepetir.runtimeType}');
 }

@@ -1,0 +1,37 @@
+1. Variables
+Ejercicio 1: Imagina que estás creando un perfil para un usuario. 
+Define variables para almacenar su nombre (cadena), edad (número) 
+y si está activo en la plataforma (booleano). Imprime estos datos.
+ 
+Ejercicio 2: Supón que tienes dos variables que representan el precio 
+de dos productos: 15.99 y 42.50. Calcula e imprime la suma de ambos precios.
+ 
+2. Casting de Variables
+Ejercicio 3: Dado el número entero 7, conviértelo a un tipo double. 
+Luego, toma el número double 8.75 y conviértelo a un tipo int. Imprime ambos resultados.
+ 
+Ejercicio 4: Tienes una cadena "1234". Conviértela a un número entero y luego suma 100 a este número. 
+Imprime el resultado final.
+ 
+3. Bucles e Iteraciones
+Ejercicio 5: Dada una lista de números [1, 2, 3, 4, 5],
+ utiliza un bucle for para imprimir cada número de la lista.
+ 
+Ejercicio 6: Escribe un bucle while que comience con el valor 0 e incremente este valor en 1 en cada iteración,
+ hasta que el valor sea igual o superior a 10.
+ 
+4. Estructuras de Control de Flujo
+Ejercicio 7: Escribe un programa que determine si un número es negativo,
+ positivo o cero. Utiliza if, else if y else para manejar las diferentes condiciones.
+ 
+Ejercicio 8: Imagina que estás programando un sistema de semáforos.
+ Usa una variable que pueda tener valores como "rojo", "amarillo" o "verde",
+ y utiliza switch para imprimir una acción como "detenerse", "precaución" o "avanzar" basada en el color.
+
+ 
+5. Funciones
+Ejercicio 9: Crea una función que tome la longitud y el ancho de una habitación en metros y devuelva su área. 
+Prueba esta función con diferentes valores.
+ 
+Ejercicio 10: Dada una lista de temperaturas en grados Celsius [20.5, 22.3, 18.8, 19.5],
+ escribe una función que calcule y devuelva el promedio de estas temperaturas.
