@@ -1,0 +1,48 @@
+1. Variables y Operaciones Básicas
+Ejercicio 1: Crea un programa que almacene el número de días, horas y minutos trabajados en una semana y luego calcule el total de minutos trabajados.
+ 
+Ejercicio 2: Escribe un programa que almacene la cantidad de agua en litros en dos recipientes diferentes (decilitros, y hectolitros, por ejemplo) y luego sume ambas cantidades, mostrando el total en litros.
+ 
+2. Casting de Variables
+Ejercicio 3: 
+Contexto: Tienes una aplicación que recibe la temperatura en grados Celsius como una cadena de texto, por ejemplo, "25C".
+Tarea: Escribe un programa que extraiga el número de la cadena, lo convierta a un número de punto flotante (decimal), y luego lo convierta a grados Fahrenheit. 
+Salida Esperada: Imprime la temperatura en grados Fahrenheit con un mensaje adecuado. Por ejemplo, si la entrada es "25C", la salida debe ser "77.0 grados Fahrenheit".
+ 
+Ejercicio 4:
+Contexto: Estás creando un programa de contabilidad que necesita mostrar los precios en formato de moneda. Sin embargo, los precios se calculan como números decimales.
+Tarea: Dado un número decimal que representa un precio, por ejemplo, 45.789, redondea el número a dos decimales y luego conviértelo en una cadena de texto que represente el precio en euros.
+Salida Esperada: El programa debe imprimir el precio como una cadena en formato de moneda, por ejemplo, "45.79 euros".
+ 
+3. Bucles e Iteraciones
+Ejercicio 5: Utiliza un bucle para contar cuántas veces aparece la letra 'a' en una frase dada.
+ 
+Ejercicio 6: Escribe un programa que imprima todos los números del 1 al 100, pero para los múltiplos de 3 imprima "Tres", para los múltiplos de 5 imprima "Cinco", y para los múltiplos de ambos imprima "TresCinco".
+ 
+4. Estructuras de Control de Flujo
+Ejercicio 7: Crea un programa que lea un número (precio del producto) e implemente una estructura de control de flujo más compleja:
+Si el precio es menor que 10, imprime "Producto Económico".
+Si el precio está entre 10 y 20, imprime "Producto de Precio Medio".
+Si el precio está entre 20 y 50, imprime "Producto Premium".
+Si el precio es mayor que 50 pero menor que 100, imprime "Producto de Lujo".
+Si el precio es 100 o más, además de imprimir "Producto de Alta Gama", verifica si el precio es par o impar y añade a la impresión "y su precio es par" o "y su precio es impar", según corresponda.
+ 
+Ejercicio 8: 
+Contexto: Estás creando un simulador de semáforo que cambia de color automáticamente cada 10 segundos y permite al usuario preguntar en cualquier momento qué color está mostrando actualmente.
+Tarea:
+Implementa un bucle que cambie el estado del semáforo ("rojo", "amarillo", "verde") cada 10 segundos.
+Utiliza una función sleep o similar para crear la pausa de 10 segundos entre cada cambio de color.
+Permite al usuario introducir una consulta en la consola en cualquier momento para preguntar el estado actual del semáforo.
+Cuando el usuario pregunta, el programa debe responder con el color actual del semáforo.
+El programa debe continuar cambiando el color del semáforo y aceptando consultas hasta que el usuario decida terminarlo.
+ 
+ 
+5. Funciones
+Ejercicio 9: Desarrolla una función que tome un número y devuelva su tabla de multiplicar hasta el 10, en forma de lista.
+ 
+Ejercicio 10: 
+Crea una función que reciba un número entero y devuelva una cadena que:
+Indique si es positivo, negativo o cero.
+Determine si es par o impar (si no es cero).
+Indique si es un número primo (si es mayor que 1).
+Salida Esperada:
