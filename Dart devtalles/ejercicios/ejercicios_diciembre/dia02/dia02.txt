@@ -1,0 +1,52 @@
+Aquí tienes diez problemas para hacer en Dart sin resolver de nivel entre principiante y básico:
+
+1. Escribe un programa que imprima "Hola, mundo" en la consola.
+
+Este es el problema clásico de "Hola, mundo" para cualquier lenguaje de programación. Es una buena forma de comenzar a aprender las bases de Dart.
+
+2. Escribe un programa que lea un número del usuario e imprima su cuadrado.
+
+Este problema te ayudará a familiarizarte con las variables, las operaciones matemáticas y la entrada/salida de datos.
+
+3. Escribe un programa que imprima los números del 1 al 100.
+
+Este problema te ayudará a practicar los bucles.
+
+4. Escribe un programa que imprima los números pares del 1 al 100.
+
+Este problema te ayudará a practicar los filtros.
+
+5. Escribe un programa que imprima la suma de los números del 1 al 100.
+
+Este problema te ayudará a practicar las funciones.
+
+6. Escribe un programa que imprima la lista de los números primos del 1 al 100.
+
+Este problema te ayudará a practicar los bucles y los condicionales.
+
+7. Escribe un programa que juegue a piedra, papel o tijera con el usuario.
+
+Este problema te ayudará a practicar las funciones y las estructuras de datos.
+
+8. Escribe un programa que calcule el factorial de un número.
+
+Este problema te ayudará a practicar las funciones recursivas.
+
+9. Escribe un programa que resuelva una ecuación de segundo grado.
+
+Este problema te ayudará a practicar las funciones matemáticas.
+
+10. Escribe un programa que cree un juego simple, como un juego de adivinanzas o un juego de simon dice.
+
+Este problema te ayudará a practicar la programación orientada a objetos.
+
+Estos problemas están diseñados para ayudarte a aprender los conceptos básicos de Dart. Puedes encontrar soluciones a estos problemas en línea o en libros de texto sobre Dart. También puedes pedir ayuda a un amigo o mentor que sepa Dart.
+
+Aquí tienes algunos consejos para resolver estos problemas:
+
+Lee atentamente el problema y asegúrate de entender lo que se te pide que hagas.
+Divide el problema en pasos más pequeños y manejables.
+Escribe un pseudocódigo para ayudarte a planificar tu solución.
+Prueba tu código a medida que lo escribes.
+No te rindas si te atascas. Busca ayuda o pide consejo a alguien que sepa Dart.
+Con un poco de práctica, podrás resolver estos problemas y aprender los conceptos básicos de Dart.

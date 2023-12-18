@@ -1,0 +1,19 @@
+1-Calculadora de Gasto Semanal:
+ 
+Descripción: Crea un programa que utilice constantes para representar los precios de tres artículos comunes (como pan, leche y huevos). Pide al usuario que ingrese cuántos de cada artículo compró en la semana y calcula el gasto total.
+ 
+2-Juego de Adivinanzas con Números:
+ 
+Descripción: Define una constante con un número secreto. Luego, permite que el usuario ingrese un número y utiliza estructuras de control para indicar si su elección es demasiado alta, demasiado baja o correcta.
+ 
+3-Contador de Monedas:
+ 
+Descripción: Pide al usuario que introduzca la cantidad de monedas de 1, 2, 5, 10 y 20 céntimos que tiene. Calcula y muestra el total de dinero en euros.
+ 
+4-Programa de Horario Escolar:
+ 
+Descripción: Solicita al usuario que ingrese la cantidad de horas que estudia cada día de la semana. Usa un bucle para recibir esta información para cada día y luego calcula el total semanal. Usa una constante para representar el número máximo de horas de estudio recomendadas por semana y compara el total con esta constante.
+ 
+5-Tienda de Frutas:
+ 
+Descripción: Escribe un programa con una lista de frutas y sus precios por kilogramo (como constantes). Permite que el usuario seleccione una fruta e ingrese cuántos kilogramos quiere comprar. Calcula el costo total.
